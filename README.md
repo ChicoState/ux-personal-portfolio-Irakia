@@ -1,6 +1,7 @@
 # UX Portfolio
 
-About me...
+hi my name is Ahmad irkai 
+im a cins major 
 
 ## UX Team Project
 
@@ -8,4 +9,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[Ahmad irakis journal](j01/)
