@@ -1,7 +1,7 @@
 # UX Portfolio
 
-hi my name is Ahmad irkai 
-im a cins major 
+hi my name is Ahmad iraki
+im a CINS major looking to go into computer security
 
 ## UX Team Project
 
