@@ -5,7 +5,7 @@ im a CINS major looking to go into computer security
 
 ## UX Team Project
 
-Coming soon.
+FriendMe, a way to schedule and meet friends 
 
 ## UX Journal
 
